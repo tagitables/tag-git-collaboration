@@ -6,8 +6,10 @@ Group activity to familiarize with git
 
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
-3. `git diff` - changes made by contributor 2 
+3. `git diff` - changes made by contributor 2.11111 
 4. `git add <filename>` changes made by contributor 2
+3. `git diff` - shows the differences between files in the working directory and the last committed version.
+4. `git add <filename>`
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"`
 7. `git log`
@@ -18,4 +20,6 @@ Group activity to familiarize with git
 
 # Code Contributors
 
-- tagitables# tag-git-collaboration
+- tagitables
+- joylearn
+- jacksonlskit
