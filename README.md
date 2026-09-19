@@ -18,6 +18,6 @@ Group activity to familiarize with git
 
 # Code Contributors
 
-- tagitables# tag-git-collaboration
-- kanxue9
+- tagitables
+- joylearn
 - jacksonlskit
